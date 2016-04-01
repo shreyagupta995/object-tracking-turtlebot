@@ -1,2 +1,2 @@
-# turtlebotObjectTracking
-Tracking a BB8 robot in a blue cover using a Turtlebot.
+# turtlebotBB8Tracking
+Tracking a Sphero BB-8™ droid using a Turtlebot.
